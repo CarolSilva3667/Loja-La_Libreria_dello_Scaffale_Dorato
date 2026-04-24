@@ -33,6 +33,6 @@ Um site simples de livraria, onde é possível cadastrar, visualizar e organizar
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autora
 
 Caroline Vitória 
