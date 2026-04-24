@@ -1,7 +1,7 @@
 # ✨Loja - La Libreria dello Scaffale Dorato✨
 Um site simples de livraria, onde é possível cadastrar, visualizar e organizar livros de forma prática e visual.
 
-``
+```
 
 ## 🚀 Funcionalidades
 
