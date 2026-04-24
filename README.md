@@ -2,8 +2,6 @@
 
 Um site simples de livraria, onde é possível cadastrar, visualizar e organizar livros de forma prática e visual.
 
----
-
 ## 🚀 Funcionalidades
 
 * 📖 Exibir livros em formato de cards
@@ -12,15 +10,11 @@ Um site simples de livraria, onde é possível cadastrar, visualizar e organizar
 * 💰 Definir preço, autor e categoria
 * 🪟 Modal interativo para cadastro
 
----
-
 ## 🛠️ Tecnologias utilizadas
 
 * HTML
 * CSS
 * JavaScript
-
----
 
 ## 👨‍💻 Autor
 
