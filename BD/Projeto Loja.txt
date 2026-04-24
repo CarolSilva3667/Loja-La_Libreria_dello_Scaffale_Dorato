@@ -1,0 +1,9 @@
+Projeto Full Stack - Loja....
+
+- BD (script.bd) 1 tabela [id, nome, imagem, preço, categoria, marca]
+
+- Backend [server, routes, controller]
+
+- Frontend [html, css, js]
+
+Github

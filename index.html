@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Livraria</title>
+
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>✨La Libreria Dello Scaffale Dorato✨</h1>
+    <button class="botao" onclick="abrirModal()">Adicionar Livro</button>
+</header>
+
+<main id="listaLivros"></main>
+
+<div id="modal" class="modal oculto">
+    <div class="janela">
+        <h2>Novo Livro</h2>
+
+        <input type="text" id="nome" placeholder="Nome">
+        <input type="text" id="autor" placeholder="Autor">
+        <input type="text" id="categoria" placeholder="Categoria">
+        <input type="number" id="preco" placeholder="Preço">
+        <input type="text" id="imagem" placeholder="URL da imagem">
+
+        <br><br>
+
+        <button class="botao cancelar" onclick="fecharModal()">Cancelar</button>
+        <button class="botao" onclick="salvarLivro()">Salvar</button>
+    </div>
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
