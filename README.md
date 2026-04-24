@@ -23,13 +23,13 @@ Um site simples de livraria, onde é possível cadastrar, visualizar e organizar
 
 ## 💻 Como usar
 1. Clone o repositório:
-git clone https://github.com/seu-usuario/Loja-La_Libreria_dello_Scaffale_Dorato.git
+   git clone https://github.com/seu-usuario/Loja-La_Libreria_dello_Scaffale_Dorato.git
 
 2. Abra o projeto:
-cd Loja-La_Libreria_dello_Scaffale_Dorato
+   cd Loja-La_Libreria_dello_Scaffale_Dorato
 
 3. Execute:
-Abra o arquivo index.html no navegador
+   Abra o arquivo index.html no navegador
 
 ---
 
